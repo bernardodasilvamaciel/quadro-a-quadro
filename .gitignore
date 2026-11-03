@@ -1,0 +1,16 @@
+# Ambiente e cache do Python
+.venv/
+__pycache__/
+*.pyc
+
+# Vídeos e tudo que a análise gera: dados ficam fora do repositório
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.csv
+*.json
+*.png
+*.jpg
+*_analise/
+teste_sintetico/
